@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546165413 source:c:\users\Владимир\documents\github\moreorless\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+
