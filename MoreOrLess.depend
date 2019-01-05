@@ -4,3 +4,9 @@
 	<ctime>
 	<random>
 
+1546686800 source:c:\users\Владимир\documents\github\moreorless\moreorless\main.cpp
+	<iostream>
+	<ctime>
+	<random>
+	<windows.h>
+
